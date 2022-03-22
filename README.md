@@ -1,2 +1,2 @@
-# editor.rich.text-
+# editor.rich.text
 Editor Rich Text (componente HTML)
